@@ -19,7 +19,7 @@ Here are some of the projects I've worked on:
 
 3. **Customer Segmentation**: Leveraging machine learning techniques, including K-means Clustering, to enhance customer segmentation. Improving marketing strategies and maximizing profits through precise targeting.
 
-4. **Tiny ML Model for Blind Curve Vehicle Detection**: Developed a lightweight ML model with a Deep Neural Network for real-time vehicle detection. Deployed on Raspberry Pi, it classifies noise and vehicles with confidence.
+4. **Tiny ML Model for Blind Curve Vehicle Detection**: Developed a lightweight ML model with a Deep Neural Network for real-time vehicle detection. Deployed on Raspberry Pi, it classifies noise and vehicles with confidence. [Link to the project](https://studio.edgeimpulse.com/public/79277/latest)
 
 ## Current Focus 🌐
 
