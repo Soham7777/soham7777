@@ -8,7 +8,27 @@ I'm a tech enthusiast with a full-time Master's degree in Artificial Intelligenc
 
 During this enriching experience, I cultivated proficiency in a variety of fields, including Python, Java, DevOps, SQL, and a plethora of machine learning and Deep Learning libraries for data manipulation and extraction. I've also ventured into the world of model deployment, with hands-on expertise in FastAPI. My explorations extend to working with LLM APIs, Langchain, and Streamlit.
 
-I'm constantly driven by a passion for technology and an eagerness to learn and innovate. Join me on this journey as we explore the endless possibilities of AI and ML!
+I'm constantly driven by a passion for technology and an eagerness to learn and innovate. Join me on this journey to make the most out of the modern day gold mine called **DATA**
+
+## My Tech Stack 
+![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=sql)
+![NOSQL](https://img.shields.io/badge/NoSQL-Database-green?style=for-the-badge&logo=nosql)
+![DevOps](https://img.shields.io/badge/DevOps-Operations-red?style=for-the-badge&logo=devops)
+![NLP](https://img.shields.io/badge/NLP-LLMS-lightgrey?style=for-the-badge&logo=nlp)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language-lightgrey?style=for-the-badge&logo=nlp)
+![OpenSUSE Linux](https://img.shields.io/badge/OpenSUSE%20Linux-OS-9cf?style=for-the-badge&logo=linux)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Viz-blueviolet?style=for-the-badge&logo=tableau)
+![AWS SageMaker](https://img.shields.io/badge/AWS%20SageMaker-Cloud%20AI-informational?style=for-the-badge&logo=aws)
+![FastAPI](https://img.shields.io/badge/FastAPI-Web%20Framework-009688?style=for-the-badge&logo=fastapi)
+![NumPy](https://img.shields.io/badge/NumPy-Sci%20Computing-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow)
+
+
+
 ## My Work 🚀
 
 Here are some of the projects I've worked on:
@@ -32,8 +52,9 @@ Here are some of the projects I've worked on:
 ## Let's Connect 📫
 
 Feel free to reach out to me:
-- Email: sohamworkplace@gmail.com
-- LinkedIn: [Let's connect](https://www.linkedin.com/in/soham-sawant-224126193/)
+- ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail) : sohamworkplace@gmail.com
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soham-sawant-224126193/)
 
 ## Fun Fact 🤖
 
