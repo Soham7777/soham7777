@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
 
 # Current Focus 🌐
 
-- **OPEN SOURCE** : Currently working with an Upwork offered task from [Unify AI](https://github.com/unifyai/ivy) , exploring ways to contribute towards the project which aims to include all the ML-DL framworks such as  JAX, TensorFlow, PyTorch under one single framework.
+- **OPEN SOURCE** : Currently working with an Upwork offered task from [Unify AI](https://github.com/unifyai/ivy) , exploring ways to contribute towards the project which aims to include all the ML-DL frameworks such as  JAX, TensorFlow, PyTorch under one single framework.
 
 - I'm currently working on developing a chatbot using Langchain and OpenAI models. The aim is to create a domain-specific, up-to-date chatbot for financial needs and to deploy it in real time.
 
